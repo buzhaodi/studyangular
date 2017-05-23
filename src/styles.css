@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+@import "../node_modules/admin-lte/dist/css/AdminLTE.min.css";
+@import "../node_modules/admin-lte/dist/css/skins/skin-blue.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css";
