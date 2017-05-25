@@ -1,10 +1,10 @@
-import { AuctionPage } from './app.po';
+import { StudyangularPage } from './app.po';
 
-describe('auction App', () => {
-  let page: AuctionPage;
+describe('studyangular App', () => {
+  let page: StudyangularPage;
 
   beforeEach(() => {
-    page = new AuctionPage();
+    page = new StudyangularPage();
   });
 
   it('should display message saying app works', () => {
